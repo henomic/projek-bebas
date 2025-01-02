@@ -42,7 +42,7 @@ class AuthController extends Controller
 
             echo 'Password bener';
         } else {
-            echo 'Pasword salah';
+            echo 'Pasword salahh';
         }
     }
 
